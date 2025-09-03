@@ -3,7 +3,6 @@
 int main() { // Función principal
     
     // 1. Serie de Leibniz (pi con 1000 términos)
-    // =======================
     int n = 1000; // Cantidad de términos
     double pi = 0.0; // Resultado de la serie
     for (int i = 0; i < n; i++) { // Bucle de 0 a 999
